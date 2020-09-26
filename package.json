@@ -1,0 +1,24 @@
+{
+  "name": "pterodactyl-node-base",
+  "version": "1.0.0",
+  "description": "Base files for my Node pterodactyl egg",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeroenoBoy/Pterodactyl-node-base.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Pterocatyl",
+    "javascript"
+  ],
+  "author": "Jeroeno_Boy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeroenoBoy/Pterodactyl-node-base/issues"
+  },
+  "homepage": "https://github.com/JeroenoBoy/Pterodactyl-node-base#readme"
+}
